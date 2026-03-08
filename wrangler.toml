@@ -154,7 +154,3 @@ persist = true
 enabled = false
 persist = true
 head_sampling_rate = 1
-
-[[routes]]
-pattern = "vault.fioren.cloudns.asia"
-custom_domain = true
